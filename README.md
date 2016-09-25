@@ -15,3 +15,8 @@ Find a boilerplate that suits your needs to help you get started with React and 
 ##Redux Resources
 - Code Cartoons https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6#.31884oefl
 - Learn Redux, Dwyl https://github.com/dwyl/learn-redux
+
+##Udemy Courses 
+Paid, but high quality.
+- Modern React with Redux https://www.udemy.com/react-redux/learn/v4/overview
+- Advanced React and Redux https://www.udemy.com/react-redux-tutorial/learn/v4/overview
