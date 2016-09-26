@@ -6,6 +6,7 @@ Find a boilerplate that suits your needs to help you get started with React and 
 - https://github.com/StephenGrider/ReduxSimpleStarter
 - http://reactboilerplate.com/
 - Find your perfect React Boilerplate http://andrewhfarmer.com/starter-project/
+- Create React App - tool to generate react boilerplate https://github.com/facebookincubator/create-react-app
 
 ##React Resources
 - Codecademy https://www.codecademy.com/learn/react-101
