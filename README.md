@@ -1,5 +1,6 @@
 # learning-react-and-redux
 Some resources to help you get started.
+[Slides from the talk] (https://docs.google.com/presentation/d/1wgQfkAt8sR_b--JC6PA1L1MBE5dwrhXaJeJP-wR-nf0/edit?usp=sharing) 
 
 ##Boilerplate
 Find a boilerplate that suits your needs to help you get started with React and Redux.
