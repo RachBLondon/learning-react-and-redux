@@ -15,6 +15,7 @@ Find a boilerplate that suits your needs to help you get started with React and 
 
 
 ##Redux Resources
+- Redux DevTools https://github.com/gaearon/redux-devtools
 - Code Cartoons https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6#.31884oefl
 - Learn Redux, Dwyl https://github.com/dwyl/learn-redux
 - Getting Started with Redux (Free online course) https://egghead.io/courses/getting-started-with-redux
