@@ -12,6 +12,7 @@ Find a boilerplate that suits your needs to help you get started with React and 
 ##React Resources
 - Codecademy https://www.codecademy.com/learn/react-101
 - Awesome React (lots and lots of resources) https://github.com/enaqx/awesome-react
+- ReactJS Program - Tyler McGinnis (free and paid courses) http://www.reactjsprogram.com/
 
 
 ##Redux Resources
@@ -20,8 +21,12 @@ Find a boilerplate that suits your needs to help you get started with React and 
 - Learn Redux, Dwyl https://github.com/dwyl/learn-redux
 - Getting Started with Redux (Free online course) https://egghead.io/courses/getting-started-with-redux
 - Lin Clark - A Cartoon Guide to the Wilds of Data Handling (talk) https://www.youtube.com/watch?v=WIqbzHdEPVM
+- Dan Abramov - Getting Started with Redux https://egghead.io/courses/getting-started-with-redux
 
 ##Udemy Courses 
 Paid, but high quality.
 - Modern React with Redux https://www.udemy.com/react-redux/learn/v4/overview
 - Advanced React and Redux https://www.udemy.com/react-redux-tutorial/learn/v4/overview
+
+##React Native Courses
+- Egghead.io - Tyler McGinnis https://egghead.io/courses/react-native-fundamentals
